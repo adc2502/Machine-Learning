@@ -1,4 +1,4 @@
-Simulation Theory
+# Simulation Theory
 
 Objective:
 
