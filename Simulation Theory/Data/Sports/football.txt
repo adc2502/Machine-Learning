@@ -1,0 +1,16 @@
+Positions
+striker
+midfielder
+defender
+
+I hate striker
+I don't mind striker
+I love striker
+
+I hate midfielder
+I don't mind midfielder
+I love midfielder
+
+I hate defender
+I don't mind defender
+I love defender
